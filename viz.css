@@ -1,0 +1,14 @@
+body {
+	display: flex;
+}
+
+iframe {
+  width: 75vw;
+  height: 100vh;
+}
+
+canvas {
+  width: 20vw;
+  margin: 10px auto;
+}
+
